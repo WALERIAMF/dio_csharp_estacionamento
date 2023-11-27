@@ -1,0 +1,14 @@
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.AssemblyInfo.cs
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\bin\Debug\net7.0\Dio_Csharp_Estacionamento.exe
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\bin\Debug\net7.0\Dio_Csharp_Estacionamento.deps.json
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\bin\Debug\net7.0\Dio_Csharp_Estacionamento.runtimeconfig.json
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\bin\Debug\net7.0\Dio_Csharp_Estacionamento.dll
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\bin\Debug\net7.0\Dio_Csharp_Estacionamento.pdb
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.dll
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\refint\Dio_Csharp_Estacionamento.dll
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.pdb
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\Dio_Csharp_Estacionamento.genruntimeconfig.cache
+C:\Users\a843183\source\repos\Dio_Csharp_Estacionamento\Dio_Csharp_Estacionamento\obj\Debug\net7.0\ref\Dio_Csharp_Estacionamento.dll
