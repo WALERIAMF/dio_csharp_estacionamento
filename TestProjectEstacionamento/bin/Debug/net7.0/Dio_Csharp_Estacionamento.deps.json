@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dio_Csharp_Estacionamento/1.0.0": {
+        "runtime": {
+          "Dio_Csharp_Estacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio_Csharp_Estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
